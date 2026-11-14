@@ -1,7 +1,7 @@
 # 简易笔记工具
 def add_note(notes, content):
     notes.append(content)
-    print("笔记添加成功！")
+    print("main分支：笔记添加成功！")
 
 def show_notes(notes):
     if len(notes) == 0:
